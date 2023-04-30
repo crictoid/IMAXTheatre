@@ -1,0 +1,13 @@
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\BulmerCh7CPA1.frmIMAX.resources
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\BulmerCh7CPA1.Resources.resources
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\BulmerCh7CPA1.SplashScreen1.resources
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.vbproj.GenerateResource.cache
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.vbproj.CoreCompileInputs.cache
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\bin\Debug\IMAX Theatre.exe.config
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\bin\Debug\IMAX Theatre.exe
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\bin\Debug\IMAX Theatre.pdb
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\bin\Debug\IMAX Theatre.xml
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.exe
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.xml
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.pdb
+C:\Users\mdbul\source\repos\BulmerCh7CPA1\obj\Debug\IMAX Theatre.vbproj.AssemblyReference.cache
